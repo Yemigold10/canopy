@@ -28,10 +28,6 @@ forming an `unstoppable` web of utility and security.
 
 For more information on the Canopy Network Protocol visit [https://canopynetwork.org](https://canopynetwork.org)
 
-## Network Status
-
-⪢ Canopy is in `Betanet` 🚀 ➝ learn more about the [road-to-mainnet](https://www.canopynetwork.org/learn-more/road-to-mainnet)
-
 ## Standard
 
 ⪢ Canopy is an Ethereum-RPC compatible L1, so it can plug into existing Ethereum exchange, wallet, and indexer tooling for native transfers,
